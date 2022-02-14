@@ -38,23 +38,7 @@ header {
   position: relative;
 }
 
-#remgo a:link {
- 
-  color: #FFF;
-}
-#remgo a:hover {
-  opacity: 70%
-}
-#remgo a:active {
-  color: #FFF;
-}
 
-#logo {
-  color: darkslategray;
-  text-align: center;
-  font-family: 'Oswald', sans-serif;
-  font-size: 30px;
-}
 
 .main{
   margin: 0 auto;
@@ -90,14 +74,6 @@ figure:hover {
   background-color: #004E89;
   border-color: #004E89;
 }
-
-#vary{
-  border: 1px dotted blue;
-  border-radius: 15px;
-  width: 400px;
-  padding: 50px 0px 50px;
-}
-
 
 h1 {
   color: darkslategray;
