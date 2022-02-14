@@ -16,12 +16,12 @@ header {
   width: 100%;
 
 }
-#remgo ul {
+#Hyowon Kim ul {
   margin: 0px auto;
   text-align: center;
   background-color: #004E89;
 }
-#remgo a {
+#logo a {
   color: #FFF;
   font-family: 'Glegoo-Regular', sans-serif;
   font-size: 16px;
@@ -48,7 +48,7 @@ header {
   display: table;
   text-decoration: none;
 }
-.introduce {
+.intro1 {
   width: 500px;
   height: 500px;
   border: 1px dotted green;
@@ -60,19 +60,6 @@ header {
   max-width: 1160px;
   padding: 0 15px;
   background-color: #757A81;
-}
-
-figure{
-  width: 400px;
-  height: 400px;
-}
-figcaption {
-  color: white;
-  font-weight: 200;
-}
-figure:hover {
-  background-color: #004E89;
-  border-color: #004E89;
 }
 
 h1 {
@@ -87,20 +74,6 @@ h1 {
   position: relative;
   text-align: center;
   width: 100px;
-}
-
-button{
-  width: 100px; 
-  height:30px; 
-  background-color: yellow; 
-  color: black;
-  font-size: 20px;
-  border-radius: 15px;
-  margin: 10px;
-}
-
-button:hover{
-  background-color: red; 
 }
 
 
@@ -130,15 +103,7 @@ table {
  color: black; 
 }
 
-#learn {
-  margin: 10px;
-  padding: 10px;
-}
 
-.photo-contact-form {
-  padding: 10px 10px;
-  display: absolute;
-}
 footer{
   background-color: DarkSeaGreen;
   text-align: center;
